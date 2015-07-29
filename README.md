@@ -1,8 +1,4 @@
----
-tags: css, kids, stay-fresh
-languages: css
-type: stay-fresh
----
+
 
 ##CSS feel like a lot to remember?
 

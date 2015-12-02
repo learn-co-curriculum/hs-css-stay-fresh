@@ -6,3 +6,5 @@ Here's a great tutorial from [Shay Howe](http://learn.shayhowe.com/html-css/gett
 
 Also feel free to take a stab at CodeAcademy's [CSS track](http://www.codecademy.com/courses/web-beginner-en-TlhFi/0/1?curriculum_id=50579fb998b470000202dc8b)!
 
+
+<a href='https://learn.co/lessons/hs-css-stay-fresh' data-visibility='hidden'>View this lesson on Learn.co</a>
